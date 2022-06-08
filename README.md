@@ -30,13 +30,13 @@ HTTPS - тот же HTTP, но с добавлением SSL(TLS)-шифрова
 
 **6) Какие браузеры какиие ядра используют**
 
-Яндекс.Браузер - Blink (Chromium)
-Chrome - Blink (Chromium)
-MozillaFirefox - Quantum (Gecko)
-Opera - Blink
-Microsoft Edge - старые на Edge, новые на Blink.
-Safari - WebKit2
-Amigo - Chromium 
+Яндекс.Браузер - Blink (Chromium)  
+Chrome - Blink (Chromium)  
+MozillaFirefox - Quantum (Gecko)  
+Opera - Blink  
+Microsoft Edge - старые на Edge, новые на Blink  
+Safari - WebKit2  
+Amigo - Chromium   
 
 
 **7) Что такое API**
